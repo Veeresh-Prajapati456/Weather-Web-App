@@ -1,6 +1,7 @@
+# Weather-Web-App
 The Weather Web App delivers current weather data and forecasts for any location worldwide. It integrates with a weather API to provide detailed meteorological information such as temperature, humidity, and wind speed. The app is built with a modern tech stack and ensures a seamless user experience across different devices.
 
-Features:
+#Features:
 
 1. Real-time Weather Data: Access up-to-date weather information for any location.
 
@@ -12,7 +13,7 @@ Features:
 
 5. Detailed Weather Information: Get comprehensive data including temperature, humidity, wind speed.
 
-Technologies Used:
+#Technologies Used:
 
 - HTML
 - CSS
